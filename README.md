@@ -1,54 +1,71 @@
-
 <div align="center">
 
 <img src=".github/images/img_main.png" alt="Dev Thakur Portfolio" width="100%" />
 
-<br><br>
+<br>
 
-```
-     ____             _____ _           _                
-    |  _ \  _____   _|_   _| |__   __ _| | ___   _ _ __ 
-    | | | |/ _ \ \ / / | | | '_ \ / _` | |/ / | | | '__|
-    | |_| |  __/\ V /  | | | | | | (_| |   <| |_| | |   
-    |____/ \___| \_/   |_| |_| |_|\__,_|_|\_\\__,_|_|   
-```
-
-### ⚡ Developer · Data Analyst · Security Enthusiast
+# ⚡ Dev Thakur — Portfolio
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge)](https://devthakur.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-DEVTHAKUR--90-181717?style=for-the-badge&logo=github)](https://github.com/DEVTHAKUR-90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--thakur90-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-thakur90)
+```
+██████╗ ███████╗██╗   ██╗  ████████╗██╗  ██╗ █████╗ ██╗  ██╗██╗   ██╗██████╗ 
+██╔══██╗██╔════╝██║   ██║  ╚══██╔══╝██║  ██║██╔══██╗██║ ██╔╝██║   ██║██╔══██╗
+██║  ██║█████╗  ██║   ██║     ██║   ███████║███████║█████╔╝ ██║   ██║██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝     ██║   ██╔══██║██╔══██║██╔═██╗ ██║   ██║██╔══██╗
+██████╔╝███████╗ ╚████╔╝      ██║   ██║  ██║██║  ██║██║  ██╗╚██████╔╝██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+### 🧑‍💻 Developer &nbsp;·&nbsp; 📊 Data Analyst &nbsp;·&nbsp; 🛡️ Security Enthusiast
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devthakur.vercel.app-7C3AED?style=for-the-badge&labelColor=1a1a2e)](https://devthakur.vercel.app)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DEVTHAKUR--90-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEVTHAKUR-90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--thakur90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-thakur90)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Anonymous__9045-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anonymous_9045/)
+[![Email](https://img.shields.io/badge/Email-90dthakur@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:90dthakur@gmail.com)
+
+<br>
 
 </div>
 
 ---
 
-## About
+## 🔍 About
 
-Space-themed developer portfolio built with **Next.js 14**, **React 18**, **Tailwind CSS**, and **Framer Motion**. Features staggered skill reveal animations, animated starfield, responsive design, and GPU-accelerated transitions.
+Space-themed developer portfolio featuring **breathing skill animations**, **animated starfield**, and a fully responsive layout. Built to showcase real projects — not template filler.
 
----
+> *"Building intelligent & scalable solutions."*
 
-## Highlights
-
-- **Staggered Skill Animations** — Icons reveal with scroll-triggered entrance animations, lift on hover with glow effects, organized in categorized rows with decorative accent lines.
-- **Animated Starfield** — Three.js particle system with custom NaN-safe position generation.
-- **Responsive** — Optimized for desktop, tablet, and mobile. Touch-friendly nav with outside-click-to-close and smooth slide animation.
-- **Accessibility** — `prefers-reduced-motion` support, ARIA labels, keyboard navigation, visible focus states.
-- **Performance** — Animations use `transform` and `opacity` only. `will-change` hints and `translateZ(0)` for 60fps.
-
----
-
-## Screenshots
+<br>
 
 <div align="center">
 
-| Hero | Skills |
+| | |
+|---|---|
+| 🚀 **Framework** | Next.js 14 + React 18 |
+| 🎨 **Styling** | Tailwind CSS |
+| ✨ **Animations** | Framer Motion + Three.js |
+| 📱 **Responsive** | Mobile, Tablet, Desktop |
+| ♿ **Accessible** | `prefers-reduced-motion`, ARIA labels |
+| ⚡ **Performance** | GPU-accelerated transforms, 60fps |
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+| Hero Section | Skills — Breathing Animation |
 |:---:|:---:|
-| <img src=".github/images/img1.png" alt="Hero" width="480" /> | <img src=".github/images/img2.png" alt="Skills" width="480" /> |
+| <img src=".github/images/img1.png" alt="Hero Section" width="480" /> | <img src=".github/images/img2.png" alt="Skills Section" width="480" /> |
 
 | Projects | Contact |
 |:---:|:---:|
@@ -58,55 +75,200 @@ Space-themed developer portfolio built with **Next.js 14**, **React 18**, **Tail
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-**MedAI** — AI disease prediction (React + TypeScript + Vercel)
-→ [Repo](https://github.com/DEVTHAKUR-90/MedAI-AI-Disease-Prediction-System) · [Demo](https://med-ai-ai-disease-prediction-system.vercel.app)
+<div align="center">
 
-**ClipGuard** — Cross-device clipboard sync (FastAPI + WebSocket)
-→ [Repo](https://github.com/DEVTHAKUR-90/ClipGuard)
+### 💻 Languages
 
-**Secure File Transfer** — AES-256 encrypted transfers with RBAC
-→ [Repo](https://github.com/DEVTHAKUR-90/Secure-File-Transfer-System)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔒 Security & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
-## Tech Stack
+## 🚀 Featured Projects
 
-```
-  Languages        Python · Java · JavaScript · TypeScript · SQL · C/C++
-  Frameworks       React · Next.js · Tailwind CSS · Node.js · Flask · FastAPI
-  ML / Data        Scikit-learn · Pandas · NumPy · Power BI
-  Databases        MySQL · PostgreSQL · MongoDB
-  Security         Wireshark · Nmap · Burp Suite · Linux
-  Tools            Git · Docker · VS Code · Jupyter
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🩺 MedAI
+**AI Disease Prediction System**
+
+React + TypeScript web app that predicts diseases from user-selected symptoms. Deployed on Vercel.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/DEVTHAKUR-90/MedAI-AI-Disease-Prediction-System)
+[![Demo](https://img.shields.io/badge/▶_Live-Demo-7C3AED?style=flat-square)](https://med-ai-ai-disease-prediction-system.vercel.app)
+
+`React` `TypeScript` `Tailwind` `Vercel`
+
+</td>
+<td width="33%" valign="top">
+
+### 📋 ClipGuard
+**Cross-Device Clipboard Sync**
+
+Copy on Windows, paste on iPhone — instantly over local Wi-Fi. No cloud, no sign-ups.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/DEVTHAKUR-90/ClipGuard)
+
+`Python` `FastAPI` `WebSocket` `PWA`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 SecureTransfer
+**Encrypted File Transfer**
+
+AES-256-GCM encryption, RSA-2048 key exchange, Argon2 hashing, RBAC, and chain-hashed audit logs.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/DEVTHAKUR-90/Secure-File-Transfer-System)
+
+`Python` `Flask` `AES-256` `Cryptography`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Run Locally
+## ⚙️ Run Locally
 
 ```bash
+# Clone
 git clone https://github.com/DEVTHAKUR-90/portfolio.git
-cd portfolio
-npm install
+
+# Install
+cd portfolio && npm install
+
+# Run
 npm run dev
 ```
 
-Open **http://localhost:3000**. Phone: `http://<your-ip>:3000`.
+> 🌐 Open **http://localhost:3000**
+>
+> 📱 Phone access: `http://<your-local-ip>:3000` (same Wi-Fi)
 
 ---
 
-## Contact
+## 📁 Project Structure
 
-**Email** — [90dthakur@gmail.com](mailto:90dthakur@gmail.com) · **LinkedIn** — [dev-thakur90](https://www.linkedin.com/in/dev-thakur90) · **GitHub** — [DEVTHAKUR-90](https://github.com/DEVTHAKUR-90)
+```
+portfolio/
+│
+├── app/
+│   ├── layout.tsx          # Root layout + metadata
+│   ├── page.tsx            # Home page composition
+│   └── globals.css         # Global styles + animations
+│
+├── components/
+│   ├── main/
+│   │   ├── hero.tsx        # Hero section + blackhole video
+│   │   ├── skills.tsx      # Breathing skill animations
+│   │   ├── encryption.tsx  # Cybersecurity interlude
+│   │   ├── projects.tsx    # Project cards grid
+│   │   ├── contact.tsx     # Contact CTA section
+│   │   ├── footer.tsx      # Footer with links
+│   │   ├── navbar.tsx      # Responsive nav + mobile menu
+│   │   └── star-background.tsx  # Three.js starfield
+│   │
+│   └── sub/
+│       ├── hero-content.tsx    # Hero text + CTAs
+│       └── project-card.tsx    # Individual project card
+│
+├── constants/index.ts      # All data (skills, projects, links)
+├── config/index.ts         # SEO metadata
+├── public/
+│   ├── projects/           # Project thumbnails
+│   ├── skills/             # Skill icons
+│   └── videos/             # Background videos
+│
+└── next.config.js          # Next.js config
+```
+
+---
+
+## ✨ Key Features
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🫧  Breathing Animations  Icons emerge, hold, retract   │
+│  🌌  Animated Starfield    Three.js particle system      │
+│  📱  Fully Responsive      Mobile → Tablet → Desktop     │
+│  ♿  Accessible            Reduced motion + ARIA          │
+│  ⚡  GPU Accelerated       transform + opacity only      │
+│  🎨  Space Theme           Dark cosmic UI                │
+│  🔗  Real Projects         Live demos + GitHub repos     │
+│  📬  Contact Section       Email + LinkedIn CTAs         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-90dthakur@gmail.com-EA4335?style=for-the-badge)](mailto:90dthakur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-dev--thakur90-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/dev-thakur90)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-DEVTHAKUR--90-181717?style=for-the-badge)](https://github.com/DEVTHAKUR-90)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devthakur.vercel.app-7C3AED?style=for-the-badge)](https://devthakur.vercel.app)
+
+</div>
+
+---
+
+## 📄 License
+
+Open source under the [MIT License](LICENSE).
 
 ---
 
 <div align="center">
 
-Open source under [MIT License](LICENSE).
+<br>
 
-<sub>Built by Dev Thakur</sub>
+⭐ **Star this repo if you found it useful** ⭐
+
+<br>
+
+<img src="https://img.shields.io/badge/Built_with-❤️_by_Dev_Thakur-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+<sub>© 2026 Dev Thakur. All rights reserved.</sub>
 
 </div>
