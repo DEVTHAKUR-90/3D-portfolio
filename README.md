@@ -17,9 +17,10 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge)](https://devthakur.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge)](https://devthakur.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-DEVTHAKUR--90-181717?style=for-the-badge&logo=github)](https://github.com/DEVTHAKUR-90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--thakur90-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-thakur90)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Anonymous__9045-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anonymous_9045/)
 
 </div>
 
