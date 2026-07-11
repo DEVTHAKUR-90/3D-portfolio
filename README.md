@@ -27,7 +27,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-DEVTHAKUR--90-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEVTHAKUR-90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--thakur90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-thakur90)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Anonymous__9045-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anonymous_9045/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Anonymous__9045-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DEVTHAKUR-90/)
 [![Email](https://img.shields.io/badge/Email-90dthakur@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:90dthakur@gmail.com)
 
 <br>
