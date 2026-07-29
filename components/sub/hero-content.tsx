@@ -45,10 +45,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-base sm:text-lg text-gray-400 my-3 sm:my-5 max-w-[600px] mx-auto md:mx-0"
         >
-          I&apos;m Dev Thakur — a Computer Science undergrad with a strong
-          foundation in software development and data analytics. I transform
-          raw data into meaningful insights while crafting efficient,
-          security-focused applications.
+          I&apos;m Dev Thakur &mdash; a Computer Science graduate specializing in software engineering and data analytics. I build efficient, security-focused applications and scalable data-driven solutions.
         </motion.p>
 
         <motion.div
