@@ -104,7 +104,7 @@ export const FOOTER_DATA = [
       {
         name: "LeetCode",
         icon: FaCode,
-        link: "https://leetcode.com/u/Anonymous_9045/",
+        link: "https://leetcode.com/u/DEVTHAKUR-90/",
       },
     ],
   },
