@@ -59,7 +59,7 @@ export const SOCIALS = [
   {
     name: "LeetCode",
     icon: FaCode,
-    link: "https://leetcode.com/u/DEVTHKAUR-90/",
+    link: "https://leetcode.com/u/DEVTHAKUR-90/",
   },
 ] as const;
 
